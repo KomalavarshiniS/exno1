@@ -21,9 +21,10 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-
+```
 Student Name : KOMALAVARSHINI.S
 Register Number : 212224230133
+```
 ![alt text](1.png)
 
 ![alt text](2.png)
